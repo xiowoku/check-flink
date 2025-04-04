@@ -118,7 +118,7 @@ def handle_api_requests():
 
 
 def main():
-    json_url = 'https://blog.liushen.fun/flink_count.json'
+    json_url = 'https://blog.xiowo.net/js/flink_count.json'
     data = fetch_json_data(json_url)
     if not data:
         return
