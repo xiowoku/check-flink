@@ -1,0 +1,254 @@
+{
+    "timestamp": "2025-04-19 21:19:00",
+    "accessible_count": 37,
+    "inaccessible_count": 4,
+    "total_count": 41,
+    "link_status": [
+        {
+            "name": "安知鱼",
+            "link": "https://blog.anheyu.com/",
+            "latency": 2.51,
+            "failed_days": 0
+        },
+        {
+            "name": "张洪Heo",
+            "link": "https://blog.zhheo.com/",
+            "latency": 1.33,
+            "failed_days": 0
+        },
+        {
+            "name": "Roozen 的小破站",
+            "link": "https://roozen.top",
+            "latency": 1.99,
+            "failed_days": 0
+        },
+        {
+            "name": "轻笑Chuckle",
+            "link": "https://www.qcqx.cn",
+            "latency": 0.76,
+            "failed_days": 0
+        },
+        {
+            "name": "Naokuo",
+            "link": "https://www.naokuo.top",
+            "latency": 1.16,
+            "failed_days": 0
+        },
+        {
+            "name": "山岳库博",
+            "link": "https://kmar.top/",
+            "latency": 0.58,
+            "failed_days": 0
+        },
+        {
+            "name": "清羽飞扬",
+            "link": "https://blog.liushen.fun/",
+            "latency": 0.59,
+            "failed_days": 0
+        },
+        {
+            "name": "梦爱吃鱼",
+            "link": "https://blog.bsgun.cn/",
+            "latency": 1.73,
+            "failed_days": 0
+        },
+        {
+            "name": "Qrasa的小站",
+            "link": "https://blog.qrasa.cn/",
+            "latency": -1,
+            "failed_days": 6
+        },
+        {
+            "name": "雾林博客",
+            "link": "https://www.baiwulin.com/",
+            "latency": -1,
+            "failed_days": 32
+        },
+        {
+            "name": "阿呆",
+            "link": "https://adai.fun",
+            "latency": 1.18,
+            "failed_days": 0
+        },
+        {
+            "name": "猫条",
+            "link": "https://nicostore-mathematica.github.io/",
+            "latency": 0.07,
+            "failed_days": 0
+        },
+        {
+            "name": "bbb-lsy07",
+            "link": "https://bbb-lsy07.my/",
+            "latency": 1.17,
+            "failed_days": 0
+        },
+        {
+            "name": "Tagtax's house",
+            "link": "https://www.tagtax.cn/",
+            "latency": 1.17,
+            "failed_days": 0
+        },
+        {
+            "name": "SCFC の博客",
+            "link": "https://blog.scfc.top/",
+            "latency": -1,
+            "failed_days": 31
+        },
+        {
+            "name": "LynxCatTheThird",
+            "link": "https://www.lynx3.me/",
+            "latency": 0.18,
+            "failed_days": 0
+        },
+        {
+            "name": "朽丘秋雨",
+            "link": "https://blog.koxiuqiu.cc",
+            "latency": 7.17,
+            "failed_days": 0
+        },
+        {
+            "name": "PeterJXL",
+            "link": "https://www.peterjxl.com",
+            "latency": 0.39,
+            "failed_days": 0
+        },
+        {
+            "name": "❖星港◎Star☆",
+            "link": "https://blog.starsharbor.com",
+            "latency": 0.48,
+            "failed_days": 0
+        },
+        {
+            "name": "Imz",
+            "link": "https://blog.imz.me",
+            "latency": 0.13,
+            "failed_days": 0
+        },
+        {
+            "name": "茗辰原",
+            "link": "https://mingcy.cn/",
+            "latency": 0.32,
+            "failed_days": 0
+        },
+        {
+            "name": "胜天半子",
+            "link": "https://blog.291055.xyz/",
+            "latency": 0.37,
+            "failed_days": 0
+        },
+        {
+            "name": "辰风",
+            "link": "https://chenfengblog.eu.org/",
+            "latency": 0.34,
+            "failed_days": 0
+        },
+        {
+            "name": "小植の小破站",
+            "link": "https://blog.xiaoztx.top",
+            "latency": 1.82,
+            "failed_days": 0
+        },
+        {
+            "name": "呆鱼",
+            "link": "https://daiyu.fun/",
+            "latency": 1.09,
+            "failed_days": 0
+        },
+        {
+            "name": "狼林鱼池",
+            "link": "https://blog.jiyu134.top/",
+            "latency": 0.77,
+            "failed_days": 0
+        },
+        {
+            "name": "小李同学 Coding",
+            "link": "https://blog.xxfer.cn/",
+            "latency": 1.78,
+            "failed_days": 0
+        },
+        {
+            "name": "布丁の小窝",
+            "link": "https://www.furryowo.top/",
+            "latency": 1.21,
+            "failed_days": 0
+        },
+        {
+            "name": "Gabriel",
+            "link": "https://blog.553888.xyz/",
+            "latency": 0.12,
+            "failed_days": 0
+        },
+        {
+            "name": "萬事屋",
+            "link": "https://rjjr.cn/",
+            "latency": 2.71,
+            "failed_days": 0
+        },
+        {
+            "name": "屑殇",
+            "link": "https://jinghuashang.cn/",
+            "latency": 3.09,
+            "failed_days": 0
+        },
+        {
+            "name": "人生足迹",
+            "link": "https://blog.lifebus.top/",
+            "latency": -1,
+            "failed_days": 1
+        },
+        {
+            "name": "龙星划空",
+            "link": "https://blog.245179.xyz/",
+            "latency": 0.19,
+            "failed_days": 0
+        },
+        {
+            "name": "XingJiのBlog",
+            "link": "https://love.xingji.fun/",
+            "latency": 0.15,
+            "failed_days": 0
+        },
+        {
+            "name": "fishcpy 的小破站",
+            "link": "https://blog.fishcpy.top/",
+            "latency": 2.83,
+            "failed_days": 0
+        },
+        {
+            "name": "Ethereal",
+            "link": "https://ethereal.ac.cn/",
+            "latency": 0.4,
+            "failed_days": 0
+        },
+        {
+            "name": "可执行程序の天境小屋🥝",
+            "link": "https://blog.hanta2011.top/",
+            "latency": 1.15,
+            "failed_days": 0
+        },
+        {
+            "name": "s1rius' blog",
+            "link": "https://s1rius.space/",
+            "latency": 0.1,
+            "failed_days": 0
+        },
+        {
+            "name": "顶茶社",
+            "link": "https://www.toptea.xin",
+            "latency": 2.12,
+            "failed_days": 0
+        },
+        {
+            "name": "Mete0r's Blog",
+            "link": "https://www.xscnas.top/",
+            "latency": 2.68,
+            "failed_days": 0
+        },
+        {
+            "name": "Joker2Yue 的个人博客",
+            "link": "https://blog.joker2yue.com/",
+            "latency": 0.12,
+            "failed_days": 0
+        }
+    ]
+}
